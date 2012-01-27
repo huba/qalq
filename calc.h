@@ -2,8 +2,8 @@
 ** calc.h
 ** This file is part of the "qalq" project,
 **   and is released under the MIT Licence.
-** Created by Huba Nagy on %DATE%.
-** Copyright (c) %YEAR% Huba Z. Nagy
+** Created by Huba Nagy on 10/01/12.
+** Copyright (c) 2012 Huba Z. Nagy
 **
 ** THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
 ** EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES
