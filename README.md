@@ -6,7 +6,7 @@ Qalq
 * Copyright(c) 2012 Huba Z. Nagy
 * Released under the MIT Licence
 
-Qalq is a little Qt based calculator with interesting featuers.
+Qalq is a little Qt based calculator with interesting featuers, can't handle decimal fractions though.
 
 License
 -------
