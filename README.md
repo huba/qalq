@@ -2,7 +2,7 @@ Qalq
 ====
 
 * Author: Huba Z. Nagy 
-* Website: https://sites.google.com/site/0x2b0xd4/
+* Website: https://sites.google.com/site/0x2b0xd4/projects/qalq
 * Copyright(c) 2012 Huba Z. Nagy
 * Released under the MIT Licence
 
@@ -11,7 +11,7 @@ Qalq is a little Qt based calculator with interesting featuers, can't handle dec
 License
 -------
 
-Copyright (c) 2012 Huba Z. Nagy <https://sites.google.com/site/0x2b0xd4/projects/qalq>
+Copyright (c) 2012 Huba Z. Nagy <https://sites.google.com/site/0x2b0xd4/>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
